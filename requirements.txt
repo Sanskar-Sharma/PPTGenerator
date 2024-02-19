@@ -1,4 +1,8 @@
 pandas
 python-dotenv
-python-docx
+docx2txt
 glob
+langchain
+langchain_google_genai
+faiss-cpu
+chromadb
